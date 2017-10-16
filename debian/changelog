@@ -1,3 +1,15 @@
+ubuntu-location-provider-geoclue2 (1.0-ubports-xenial1) xenial; urgency=medium
+
+  * Remove aggressive start on postinst and fix ordering 
+
+ -- Ricardo Mendoza <mendoza.ricardo@gmail.com>  Mon, 22 May 2017 20:28:39 +0200
+
+ubuntu-location-provider-geoclue2 (1.0-ubports-vivid0) vivid; urgency=medium
+
+  * Release for ubports overlay ppa
+
+ -- Ricardo Mendoza <mendoza.ricardo@gmail.com>  Mon, 22 May 2017 16:59:06 +0200
+
 ubuntu-location-provider-geoclue2 (1.0) vivid; urgency=low
 
   * Initial release

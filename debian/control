@@ -8,4 +8,4 @@ Build-Depends: debhelper (>= 9~), cmake, pkg-config, libboost-system-dev, libdbu
 Package: ubuntu-location-provider-geoclue2
 Architecture: any
 Description: Geoclue2 provider for Ubuntu Location Service
-Depends: ${shlibs:Depends}, ${misc:Depends}, geoclue-2.0
+Depends: ${shlibs:Depends}, ${misc:Depends}, geoclue-2.0, ubuntu-location-provider-here
