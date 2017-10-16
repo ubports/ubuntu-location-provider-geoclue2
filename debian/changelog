@@ -1,4 +1,4 @@
-ubuntu-location-provider-geoclue2 (1.0-ubports-xenial1) xenial; urgency=medium
+ubuntu-location-provider-geoclue2 (1.0+ubports+xenial1) xenial; urgency=medium
 
   * Remove aggressive start on postinst and fix ordering 
 
