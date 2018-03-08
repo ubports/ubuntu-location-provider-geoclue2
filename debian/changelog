@@ -1,5 +1,11 @@
 ubuntu-location-provider-geoclue2 (1.0+ubports+xenial2) xenial; urgency=medium
 
+  * No change rebuild to add apt sources to archive
+
+ -- Dan Chapman <dan@ubports.com>  Thu, 08 Mar 2018 10:06:12 +0000
+
+ubuntu-location-provider-geoclue2 (1.0+ubports+xenial2) xenial; urgency=medium
+
   * No change rebuild against new dbus-cpp
 
  -- Dan Chapman <dan@ubports.com>  Tue, 09 Jan 2018 10:09:54 +0000
